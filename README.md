@@ -11,5 +11,7 @@
 
 特色：Master a wide range of web development techniques with Django and take your projects beyond the basics  
 
+链接： https://www.packtpub.com/web-development/django-project-blueprints  
+
 **********
 目前未上市
